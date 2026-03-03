@@ -1,0 +1,11 @@
+.footer {
+  height: 100px;
+  background: linear-gradient(to bottom, #0f1b2d, #0c1626);
+  max-width: 1721px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
